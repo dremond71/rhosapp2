@@ -1,0 +1,23 @@
+{
+  "name": "rhosapp2",
+  "version": "1.0.0",
+  "description": "Pure Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dremond71/rhosapp2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dremond71/rhosapp2/issues"
+  },
+  "homepage": "https://github.com/dremond71/rhosapp2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
